@@ -1,0 +1,46 @@
+{
+	"components": {
+	  "x-294058-test-project": {
+		"uiBuilder": {
+		  "associatedTypes": [
+			"global.core"
+		  ],
+		  "label": "Test",
+		  "icon": "address-card-fill",
+		  "description": "Comment component"
+		},
+		"innerComponents": [
+		  "now-card",
+		  "now-button",
+		  "now-card-header"
+		]
+	  }
+	},
+	"scopeName": "x_294058_myorg_t_0"
+  }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+

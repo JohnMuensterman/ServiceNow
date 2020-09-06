@@ -1,0 +1,11 @@
+<div class="panel panel-primary">
+ <div class="panel-heading">Rt an item from the catalog</div>
+ <div class="panel-body">
+   <input class="form-control" type="search" placeholder="Start typing here to search the list of catalog items" ng-model="c.data.keywords" ng-change="c.server.update()" ng-model-options="{debounce: 250}" />
+   <ul class="list-group result-container">
+     <li class="list-group-item" ng-repeat="item in c.data.items">
+       <a href>{{item.name}}</a><span class="pull-right">{{item.price}}</span>
+     </li>
+   </ul>
+ </div>
+</div>

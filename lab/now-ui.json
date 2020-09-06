@@ -1,0 +1,9 @@
+{
+	"components": {
+	    "x-294058-movie-quotes": {
+			"innerComponents": ["now-inner-button"
+			]
+	    }
+	},
+	"scopeName": "x_294058_myorg_m_1"
+}
